@@ -1,0 +1,9 @@
+Durante este curso aprendí que la tecnología puede ser una herramienta muy útil para fortalecer la participación
+ciudadana y la organización comunitaria. También comprendí la importancia de proteger los datos personales y utilizar 
+la información de forma responsable. Aprendí a trabajar con Node.js, bases de datos, autenticación de
+usuarios y automatizaciones con n8n y Telegram. Además, entendí cómo desarrollar aplicaciones sencillas que ayuden 
+
+a resolver necesidades de una comunidad. El uso de GitHub me permitió organizar y compartir el proyecto. Este curso fortaleció 
+
+mis conocimientos sobre el desarrollo de plataformas digitales con un enfoque social. Considero que estas herramientas pueden 
+facilitar la comunicación, el seguimiento de iniciativas y la toma de decisiones comunitarias de manera organizada y segura.
